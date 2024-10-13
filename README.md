@@ -4,7 +4,7 @@
 [![Most Cited Paper](https://img.shields.io/badge/Most_Cited_Paper-Citations-brightgreen)](https://dl.acm.org/action/doSearch?SeriesKey=ptrl&sortBy=cited&expand=all&pageSize=20&startPage=1)
 
 
-This repository contains the data (datasets, video/user summaries, CUS evaluation) in the paper [VSUMM: A mechanism designed to produce static video summaries and a novel evaluation method](https://www.sciencedirect.com/science/article/abs/pii/S0167865510002783?via%3Dihub). We originally created the repository in 2011 at (inactive) Google sites [https://sites.google.com/site/vsummsite/](https://sites.google.com/site/vsummsite/download).
+This repository contains the data (datasets, video/user summaries, CUS evaluation) from the paper [VSUMM: A mechanism designed to produce static video summaries and a novel evaluation method](https://www.sciencedirect.com/science/article/abs/pii/S0167865510002783?via%3Dihub). We originally created the repository in 2011 at (inactive) Google sites [https://sites.google.com/site/vsummsite/](https://sites.google.com/site/vsummsite/download).
 
 Video summarization is one of the most important topics, potentially enabling faster browsing of large video collections and more efficient content indexing and access. Essentially, this research area consists of automatically generating a short summary of a video, which can either be static or dynamic. Static video summaries are composed of a set of keyframes extracted from the original video, while dynamic video summaries are composed of a set of shots and are produced taking into account the similarity or domain-specific relationships among all video shots.
 
