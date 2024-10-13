@@ -60,7 +60,7 @@ java -jar CUS.jar -i [input_file.txt] -o [output_file.txt] -u [number_user_summa
 
 * `-u [number_user_summaries]`: The number of user summaries for each video.
 * `-a [number_approaches]`: The number of approaches which produced the automatic summaries.
-* `-t [threshold (default: 0.5)]`: CUS evaluation method compares each user summary directly with the automatic summaries. For comparing keyframes from different summaries, the color histogram are applied and the distance among them is measured by Manhattan distance. Two keyframes are similar if the distance between them is less than a predetermined threshold. Once two frames are matched, they are removed from the next iteration of the comparing procedure. The default value is 0.5.
+* `-t [threshold (default: 0.5)]`: The CUS evaluation method compares each user summary directly with the automatic summaries. The color histogram is applied to compare keyframes from different summaries, and the distance between them is measured using the Manhattan distance. Two keyframes are similar if the distance between them is less than a predetermined threshold. Once two frames are matched, they are removed from the next iteration of the comparing procedure. The default value is 0.5.
 
 # Citation
 ```
