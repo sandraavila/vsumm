@@ -31,7 +31,7 @@ File (zip) | Size (MB) | Description
 [VSUMM summary](https://www.dropbox.com/s/2f448wsndg2877r/VSUMMSummary.zip) | 7.93 | 50 video summaries (ours).
 
 # Comparison of User Summaries (CUS) 
-CUS evaluation method (jar, example) (update on February 2014). The jai_core and jai_codec were included in the CUS implementation.
+CUS evaluation method ([jar](https://github.com/sandraavila/vsumm/blob/main/CUS/CUS.jar), [example](https://github.com/sandraavila/vsumm/blob/main/CUS/CUS.zip)) (update on February 2014). The jai_core and jai_codec were included in the CUS implementation.
 
 Usage:
 ```
