@@ -90,7 +90,7 @@ Video | Name | #Frames | Duration | Summary
 [v42](http://www.open-video.org/details.php?videoid=721) | Exotic Terrane, segment 03 | 2,676 | 1:29 | [v43](https://github.com/sandraavila/vsumm/blob/main/Results/video42.pdf)
 [v43](http://www.open-video.org/details.php?videoid=722) | Exotic Terrane, segment 04 | 4,797 | 2:40 | [v43](https://github.com/sandraavila/vsumm/blob/main/Results/video43.pdf)
 [v44](http://www.open-video.org/details.php?videoid=724) | Exotic Terrane, segment 06 | 2,425 | 1:21 | [v44](https://github.com/sandraavila/vsumm/blob/main/Results/video44.pdf)
-[v45](http://www.open-video.org/details.php?videoid=726) | Exotic Terrane, segment 08 | 2,428 | 1:21 | [v45](https://github.com/sandraavila/vsumm/blob/main/Results/video45.pdf)
+[v45](http://www.open-video.org/details.php?videoid=726) | Exotic Terrane, segment 08 | 2,428 | 1:40 | [v45](https://github.com/sandraavila/vsumm/blob/main/Results/video45.pdf)
 [v46](http://www.open-video.org/details.php?videoid=731) | America's New Frontier, segment 01 | 3,591 | 1:59 | [v46](https://github.com/sandraavila/vsumm/blob/main/Results/video46.pdf)
 [v47](http://www.open-video.org/details.php?videoid=733) | America's New Frontier, segment 03 | 2,166 | 1:12 | [v47](https://github.com/sandraavila/vsumm/blob/main/Results/video47.pdf)
 [v48](http://www.open-video.org/details.php?videoid=734) | America's New Frontier, segment 04 | 3,705 | 2:03 | [v48](https://github.com/sandraavila/vsumm/blob/main/Results/video48.pdf)
