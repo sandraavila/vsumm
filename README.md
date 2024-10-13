@@ -14,140 +14,21 @@ The main contributions of this paper are:
 # Datasets & Summaries
 **You can download the data in a [single](https://www.dropbox.com/s/79vzkk9z5r9oxj3/VSUMM.zip) or each zip file.**
 
-<table xmlns="http://www.w3.org/1999/xhtml" border="1" bordercolor="#888888" cellspacing="0" style="border-color:rgb(136,136,136);border-width:1px;border-collapse:collapse" data-table-local-id="table-2">
-  <tbody>
-    <tr>
-      <td style="text-align:center;width:128px;height:16px">
-        File (zip)
-      </td>
-      <td style="text-align:center;width:99px;height:16px">
-        Size (MB)
-      </td>
-      <td style="text-align:center;width:526px;height:16px">Description</td>
-    </tr>
-    <tr>
-      <td style="text-align:center;width:128px;height:64px">
-        <a href="https://www.dropbox.com/s/g0e64b4qfnuual1/database.zip" rel="nofollow" target="_blank">Dataset</a>
-      </td>
-      <td style="text-align:center;width:99px;height:64px">
-        763
-      </td>
-      <td style="text-align:left;width:526px;height:64px">
-        50 videos from
-        <a href="http://www.open-video.org/" rel="nofollow" target="_blank">Open Video</a>. All videos are in MPEG-1 format (30 fps, 352 x 240 pixels), in color and with sound. These videos are distributed among several genres (documentary, educational, ephemeral, historical, lecture) and their duration varies from 1 to 4 minutes and approximately 75 minutes of video in total.
-        <br />
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:center;width:128px;height:48px">
-        <a href="https://www.dropbox.com/s/ilt1jpclzs2o18v/UserSummary.zip" rel="nofollow" target="_blank">User summary</a>
-      </td>
-      <td style="text-align:center;width:99px;height:48px">
-        31.5
-      </td>
-      <td style="text-align:left;width:526px;height:48px">
-        250 user summaries. These summaries were created manually by 50 users, each one dealing with 5 videos, meaning that each video has 5 video summaries created by 5 different users.
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:center;width:128px;height:17px">
-        <a href="https://www.dropbox.com/s/47rxdjw34r8dav6/VSUMM1Summary.zip" rel="nofollow" target="_blank">
-          VSUMM
-          <sub>1</sub>
-          summary
-        </a>
-        <a href="http://www.npdi.dcc.ufmg.br/VSUMM/downloads/VSUMM2Summary.zip" rel="nofollow"></a>
-      </td>
-      <td style="text-align:center;width:99px;height:17px">6.28</td>
-      <td style="text-align:left;width:526px;height:17px">50 video summaries (ours).</td>
-    </tr>
-    <tr>
-      <td style="text-align:center;width:128px;height:17px">
-        <a href="https://www.dropbox.com/s/rxuzmg75qvgmy20/VSUMM2Summary.zip" rel="nofollow" target="_blank">VSUMM<sub>2</sub> summary
-        </a>
-      </td>
-      <td style="text-align:center;width:99px;height:17px">4.91</td>
-      <td style="text-align:left;width:526px;height:17px">50 video summaries (ours).</td>
-    </tr>
-    <tr>
-      <td style="text-align:center;width:128px;height:16px">
-        <a href="https://www.dropbox.com/s/2lyz13xdq0ru798/OVSummary.zip" rel="nofollow" target="_blank">OV summary</a>
-      </td>
-      <td style="text-align:center;width:99px;height:16px">
-        6.30
-      </td>
-      <td style="text-align:left;width:526px;height:16px">50 video summaries (dataset providers).</td>
-    </tr>
-    <tr>
-      <td style="text-align:center;width:128px;height:48px">
-        <a href="https://www.dropbox.com/s/mj3qsvmj7vykx7n/DTSummary.zip" rel="nofollow" target="_blank">DT summary</a>
-      </td>
-      <td style="text-align:center;width:99px;height:48px">
-        3.68
-      </td>
-      <td style="text-align:left;width:526px;height:48px">
-        50 video summaries <a href="http://dx.doi.org/10.1007/s00799-005-0129-9" rel="nofollow" target="_blank">[Mundur et al., 2006]</a>.
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:center;width:128px;height:48px">
-        <a href="https://www.dropbox.com/s/lt5tuh9xejp7wm2/STIMOSummary.zip" rel="nofollow" target="_blank">STIMO summary</a>
-        (extended version of
-        <a href="http://doi.acm.org/10.1145/1282280.1282370" rel="nofollow" target="_blank">VISTO approach</a>
-        )
-      </td>
-      <td style="text-align:center;width:99px;height:48px">
-        5.86
-      </td>
-      <td style="text-align:left;width:526px;height:48px">
-        50 video summaries 
-        <a href="http://portal.acm.org/citation.cfm?id=1713242" rel="nofollow" target="_blank">[Furini et al., 2010]</a>.
-      </td>
-    </tr>
-  </tbody>
-</table>
+File (zip) | Size (MB) | Description
+:------------ | :------------- | :------------- 
+[Dataset](https://www.dropbox.com/s/g0e64b4qfnuual1/database.zip) | 763 | 50 videos from [Open Video](http://www.open-video.org). All videos are in MPEG-1 format (30 fps, 352 x 240 pixels), in color and with sound. These videos are distributed among several genres (documentary, educational, ephemeral, historical, lecture) and their duration varies from 1 to 4 minutes and approximately 75 minutes of video in total.
+[User summary](https://www.dropbox.com/s/ilt1jpclzs2o18v/UserSummary.zip) | 31.5 | 250 user summaries. These summaries were created manually by 50 users, each one dealing with 5 videos, meaning that each video has 5 video summaries created by 5 different users.
+[VSUMM<sub>1</sub> summary](https://www.dropbox.com/s/47rxdjw34r8dav6/VSUMM1Summary.zip) | 6.28 | 50 video summaries (ours).
+[VSUMM<sub>2</sub> summary](https://www.dropbox.com/s/rxuzmg75qvgmy20/VSUMM2Summary.zi) | 4.91 | 50 video summaries (ours).
+[OV summary](https://www.dropbox.com/s/2lyz13xdq0ru798/OVSummary.zip) | 6.30 | 50 video summaries (dataset providers). 
+[DT summary](https://www.dropbox.com/s/mj3qsvmj7vykx7n/DTSummary.zip) | 3.68 | 50 video summaries [[Mundur et al., 2006]](http://dx.doi.org/10.1007/s00799-005-0129-9).
+[STIMO summary](https://www.dropbox.com/s/lt5tuh9xejp7wm2/STIMOSummary.zip) (extended version of [VISTO approach](http://doi.acm.org/10.1145/1282280.1282370)). | 5.86 | 50 video summaries [[Furini et al., 2010]](http://portal.acm.org/citation.cfm?id=1713242).
 
-<table xmlns="http://www.w3.org/1999/xhtml" border="1" bordercolor="#888888" cellspacing="0" style="border-color:rgb(136,136,136);border-width:1px;border-collapse:collapse" data-table-local-id="table-3">
-  <tbody>
-    <tr>
-      <td style="text-align:center;width:125px;height:21px">
-         File (zip)
-      </td>
-      <td style="text-align:center;width:93px;height:21px">
-         Size (MB)
-      </td>
-      <td style="text-align:center;width:536px;height:21px"> Description</td>
-    </tr>
-    <tr>
-      <td style="text-align:center;width:125px;height:63px">
-        <a href="https://www.dropbox.com/s/wxpj91cm9m3ikn0/newDatabase.zip" rel="nofollow" target="_blank">Database</a>
-      </td>
-      <td style="text-align:center;width:93px;height:63px">
-        468
-      </td>
-      <td style="width:536px;height:63px">
-        50 video from websites like YouTube. These videos are distributed among several genres (cartoons, news, sports, commercials, tv-shows and home videos) and their duration varies from 1 to 10 minutes.
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:center;width:128px;height:48px">
-        <a href="https://www.dropbox.com/s/7rtbyeo64hk8ot7/newUserSummary.zip" rel="nofollow" target="_blank">User summary</a>
-      </td>    
-      <td style="text-align:center;width:93px;height:63px">
-        45.3
-      </td>
-      <td style="width:536px;height:63px">250 user summaries. These summaries were created manually by 50 users, each one dealing with 5 videos, meaning that each video has 5 video summaries created by 5 different users.</td>
-    </tr>
-    <tr>
-      <td style="text-align:center;width:125px;height:21px"><a href="https://www.dropbox.com/s/2f448wsndg2877r/VSUMMSummary.zip" rel="nofollow" target="_blank">VSUMM summary</a>
-      </td>
-      <td style="text-align:center;width:93px;height:21px">
-        7.93
-      </td>
-      <td style="width:536px;height:21px">50 video summaries (ours).</td>
-    </tr>
-  </tbody>
-</table>
+File (zip) | Size (MB) | Description
+:------------ | :------------- | :------------- 
+[Dataset](https://www.dropbox.com/s/wxpj91cm9m3ikn0/newDatabase.zip) | 468 | 50 video from websites like YouTube. These videos are distributed among several genres (cartoons, news, sports, commercials, tv-shows and home videos) and their duration varies from 1 to 10 minutes.
+[User summary](https://www.dropbox.com/s/7rtbyeo64hk8ot7/newUserSummary.zip) | 45.3 | 250 user summaries. These summaries were created manually by 50 users, each one dealing with 5 videos, meaning that each video has 5 video summaries created by 5 different users.
+[VSUMM summary](https://www.dropbox.com/s/2f448wsndg2877r/VSUMMSummary.zip) | 7.93 | 50 video summaries (ours).
 
 # Comparison of User Summaries (CUS) 
 CUS evaluation method (jar, example) (update on February 2014). The jai_core and jai_codec were included in the CUS implementation.
