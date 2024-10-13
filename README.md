@@ -1,4 +1,6 @@
 # VSUMM (Video SUMMarization)
+[![Pattern Recognition Letters](https://img.shields.io/badge/Pattern%20Recognition%20Letters-DOI-orange.svg)](https://doi.org/10.1016/j.patrec.2010.08.004)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Paper-blue.svg)](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=574129415243082155&as_sdt=5)
 
 This repository contains the data (datasets, video/user summaries, CUS evaluation) in the paper [VSUMM: A mechanism designed to produce static video summaries and a novel evaluation method](https://www.sciencedirect.com/science/article/abs/pii/S0167865510002783?via%3Dihub). We originally created the repository in 2011 at (inactive) Google sites [https://sites.google.com/site/vsummsite/](https://sites.google.com/site/vsummsite/download).
 
